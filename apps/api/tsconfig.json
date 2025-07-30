@@ -4,6 +4,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../libs/internal-lib"
+    },
+    {
       "path": "./tsconfig.app.json"
     },
     {
